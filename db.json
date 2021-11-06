@@ -1,0 +1,77 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    }
+  ],
+  "requests": [
+    {
+      "name": "Jaloliddin",
+      "phone": "+998900629092",
+      "id": 1
+    },
+    {
+      "name": "Biloliddin",
+      "phone": "+998900629092",
+      "id": 2
+    },
+    {
+      "name": "Muslim",
+      "phone": "+998909791699",
+      "id": 3
+    },
+    {
+      "name": "Jaloliddin",
+      "phone": "+998934562131",
+      "id": 4
+    },
+    {
+      "name": "Jaloliddin",
+      "phone": "+998943219091",
+      "id": 5
+    },
+    {
+      "name": "jalol",
+      "phone": "3219291",
+      "id": 6
+    },
+    {
+      "name": "bilol",
+      "phone": "943219095",
+      "id": 7
+    },
+    {
+      "name": "Jaloliddin",
+      "phone": "+998900629091",
+      "id": 8
+    },
+    {
+      "name": "Jaloliddin",
+      "phone": "+998900629091",
+      "id": 9
+    },
+    {
+      "name": "bilol",
+      "phone": "943219095",
+      "id": 10
+    }
+  ]
+}
